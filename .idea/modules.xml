@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/P2PConnector.iml" filepath="$PROJECT_DIR$/.idea/modules/P2PConnector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/P2PConnector.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/P2PConnector.app.iml" />
+    </modules>
+  </component>
+</project>
